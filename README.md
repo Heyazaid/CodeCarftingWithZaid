@@ -36,4 +36,5 @@ This project is licensed under the [MIT License](LICENSE).
 Zaid Khan
 - GitHub: https://github.com/Heyazaid/CodeCarftingWithZaid
 - Demo: https://codecraftingwithzaid.github.io/CodeCarftingWithZaid/
+  
 Happy coding and exploring the world of Hadiths! 🖥️📚
